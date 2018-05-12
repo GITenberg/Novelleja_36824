@@ -1,0 +1,29 @@
+_repo: Novelleja_36824
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schwartz, Marie Sophie
+    alias: Schwartz, Marie Sofie Birath
+    birthdate: 1819
+    deathdate: 1894
+    gutenberg_agent_id: '33849'
+    url: http://www.gutenberg.org/2009/agents/33849
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36824'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Sigrid -- Vangin kertomus -- Turhuuden lapsi.
+title: Novelleja
+url: http://www.gutenberg.org/ebooks/36824
